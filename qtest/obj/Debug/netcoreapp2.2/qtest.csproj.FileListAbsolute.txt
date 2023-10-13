@@ -1,0 +1,11 @@
+D:\Work\Qwiik\Intern Test\q-test\qtest\bin\Debug\netcoreapp2.2\qtest.deps.json
+D:\Work\Qwiik\Intern Test\q-test\qtest\bin\Debug\netcoreapp2.2\qtest.runtimeconfig.json
+D:\Work\Qwiik\Intern Test\q-test\qtest\bin\Debug\netcoreapp2.2\qtest.runtimeconfig.dev.json
+D:\Work\Qwiik\Intern Test\q-test\qtest\bin\Debug\netcoreapp2.2\qtest.dll
+D:\Work\Qwiik\Intern Test\q-test\qtest\bin\Debug\netcoreapp2.2\qtest.pdb
+D:\Work\Qwiik\Intern Test\q-test\qtest\obj\Debug\netcoreapp2.2\qtest.csprojAssemblyReference.cache
+D:\Work\Qwiik\Intern Test\q-test\qtest\obj\Debug\netcoreapp2.2\qtest.csproj.CoreCompileInputs.cache
+D:\Work\Qwiik\Intern Test\q-test\qtest\obj\Debug\netcoreapp2.2\qtest.AssemblyInfoInputs.cache
+D:\Work\Qwiik\Intern Test\q-test\qtest\obj\Debug\netcoreapp2.2\qtest.AssemblyInfo.cs
+D:\Work\Qwiik\Intern Test\q-test\qtest\obj\Debug\netcoreapp2.2\qtest.dll
+D:\Work\Qwiik\Intern Test\q-test\qtest\obj\Debug\netcoreapp2.2\qtest.pdb
